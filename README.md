@@ -1,2 +1,2 @@
 # pythonpoetry
-Poetry integration project
+Poetry integration project. Using CI.

@@ -1,0 +1,13 @@
+Metadata-Version: 1.2
+Name: pythonpoetry
+Version: 0.1.0
+Summary: Trying Poetry with CLI project
+Home-page: https://github.com/Sereton/pythonpoetry
+Author: Jay Hernandez
+Author-email: ajuan_jose@hotmail.com
+License: UNKNOWN
+Description: # pythonpoetry
+        Poetry integration project. Using CI.
+        
+Platform: UNKNOWN
+Requires-Python: >=3.7,<4.0

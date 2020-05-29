@@ -1,11 +1,17 @@
 [tool.poetry]
 name = "pythonpoetry"
 version = "0.1.0"
-description = ""
+description = "Trying Poetry with CLI project"
 authors = ["Jay Hernandez <ajuan_jose@hotmail.com>"]
+license = "MIT"
+readme = "README.md"
+homepage = "https://github.com/Sereton/pythonpoetry"
+repository = "https://github.com/Sereton/pythonpoetry"
+keywords = ["poetry"]
 
 [tool.poetry.dependencies]
-python = "^3.8"
+python = "^3.7"
+click = "^7.1.2"
 
 [tool.poetry.dev-dependencies]
 

@@ -1,0 +1,7 @@
+README.md
+setup.py
+src/pythonpoetry/__init__.py
+src/pythonpoetry.egg-info/PKG-INFO
+src/pythonpoetry.egg-info/SOURCES.txt
+src/pythonpoetry.egg-info/dependency_links.txt
+src/pythonpoetry.egg-info/top_level.txt
